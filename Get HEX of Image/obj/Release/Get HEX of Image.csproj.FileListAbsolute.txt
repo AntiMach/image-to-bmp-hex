@@ -1,0 +1,15 @@
+C:\Users\adm\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\Get HEX of Image.csprojResolveAssemblyReference.cache
+C:\Users\adm\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\adm\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\Get HEX of Image.csproj.GenerateResource.Cache
+C:\Users\adm\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Get HEX of Image.exe.config
+C:\Users\adm\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Get HEX of Image.exe
+C:\Users\adm\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Get HEX of Image.pdb
+C:\Users\adm\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\Get_HEX_of_Image.Properties.Resources.resources
+C:\Users\adm\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\Get HEX of Image.exe
+C:\Users\adm\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\Get HEX of Image.pdb
+C:\Users\adm\Documents\Visual Studio 2015\Projects\Get HEX of Image\WindowsFormsApplication1\bin\Release\Get HEX of Image.exe.config
+C:\Users\adm\Documents\Visual Studio 2015\Projects\Get HEX of Image\WindowsFormsApplication1\obj\Release\Get HEX of Image.exe
+C:\Users\adm\Documents\Visual Studio 2015\Projects\Get HEX of Image\WindowsFormsApplication1\obj\Release\Get HEX of Image.pdb
+C:\Users\adm\Documents\Visual Studio 2015\Projects\Get HEX of Image\Get HEX of Image\bin\Release\Get HEX of Image.exe.config
+C:\Users\adm\Documents\Visual Studio 2015\Projects\Get HEX of Image\Get HEX of Image\obj\Release\Get HEX of Image.exe
+C:\Users\adm\Documents\Visual Studio 2015\Projects\Get HEX of Image\Get HEX of Image\obj\Release\Get HEX of Image.pdb
