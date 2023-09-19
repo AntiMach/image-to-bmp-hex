@@ -1,2 +1,4 @@
-# Get-HEX-of-Image
-Simply put, it retrieves the any image file, converts it into a BMP file and retrieves the all of the HEX values of that file.
+# Image to BMP Hex
+This simple program converts PNG images to the BMP format, returning an hex string of the entire file.
+
+This was used for a very old, and now deleted, [Scratch](https://scratch.mit.edu/) project.
